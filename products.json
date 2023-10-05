@@ -1,0 +1,29 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Hoodie",
+        "description": "This is the description of Product A.",
+        "price": 29.99,
+        "category": "Fashion",
+        "in_stock": true
+      },
+      {
+        "id": 2,
+        "name": "Jeans",
+        "description": "Product B is a versatile and reliable item.",
+        "price": 49.99,
+        "category": "Fashion",
+        "in_stock": false
+      },
+      {
+        "id": 3,
+        "name": "Shoes",
+        "description": "A high-quality product with many features.",
+        "price": 79.99,
+        "category": "Fashion",
+        "in_stock": true
+      }
+    ]
+  }
+  
